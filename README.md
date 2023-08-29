@@ -1,13 +1,11 @@
 <!DOCTYPE html>
 <html>
 </head>
-  <style>
-        body {
-      background-color: #333333;
-      color: #00bfff;
-    }
-  </style>
+
  <body>
+
+<BODY BGCOLOR="#333333">
+   
   <h1>Recover-Mac-In-VM</h1>
   <p>How to recover or revive a Mac with a macOS VM in Linux QEMU</p>
 
