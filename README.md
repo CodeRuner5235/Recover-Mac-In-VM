@@ -1,7 +1,4 @@
-
-</head>
-
- <body>
+<body>
 
 <BODY BGCOLOR="#333333">
    
