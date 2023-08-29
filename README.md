@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+
 </head>
 
  <body>
@@ -59,4 +58,3 @@ Bus XXX Device XXX: ID XXXX:XXXX Apple Mobile Device
   <p>Once all of your different modes have been passed through to the VM, just follow <a href="https://support.apple.com/guide/apple-configurator-mac/revive-or-restore-a-mac-with-apple-silicon-apdd5f3c75ad/mac">Apple's instructions</a> on how to recover or revive your Mac using their Apple configurator. Then ta-da! You now have a working mac! </p>
 
 </body>
-</html>
